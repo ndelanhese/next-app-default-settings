@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+yarn pre-commit
+
+#npx --no-install jira-prepare-commit-msg "$1"
