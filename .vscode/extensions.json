@@ -1,14 +1,14 @@
 {
-    "recommendations": [
-      "EditorConfig.EditorConfig",
-      "ms-vscode.vscode-typescript-tslint-plugin",
-      "esbenp.prettier-vscode",
-      "dbaeumer.vscode-eslint",
-      "formulahendry.auto-rename-tag",
-      "formulahendry.auto-close-tag",
-      "christian-kohler.path-intellisense",
-      "steoates.autoimport",
-      "IronGeek.vscode-env",
-      "aaron-bond.better-comments"
-    ]
-  }
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "christian-kohler.path-intellisense",
+    "steoates.autoimport",
+    "irongeek.vscode-env",
+    "aaron-bond.better-comments",
+    "eamodio.gitlens"
+  ]
+}
