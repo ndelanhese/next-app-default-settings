@@ -1,7 +1,6 @@
 {
-    "recommendations": [
-      "EditorConfig.EditorConfig",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+  "recommendations": [
+    "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "formulahendry.auto-rename-tag",
@@ -22,7 +21,6 @@
     "mf.vscode-styled-components",
     "ms-vscode.makefile-tools",
     "ms-vscode.vscode-typescript-next",
-    "ms-vscode.vscode-typescript-tslint-plugin",
     "msjsdiag.vscode-react-native",
     "naumovs.color-highlight",
     "PKief.material-icon-theme",
@@ -31,5 +29,5 @@
     "styled-components.vscode-styled-components",
     "TabNine.tabnine-vscode",
     "VisualStudioExptTeam.vscodeintellicode"
-    ],
-  }
+  ]
+}
