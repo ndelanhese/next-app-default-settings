@@ -2,7 +2,7 @@ This repository was created by [Delanhese](https://github.com/ndelanhese/), proj
 
 ## Getting Started
 
-First, clone this repository on you pc using this command:
+First, clone this repository on you pc using this commands:
 
 ```bash
 # to clone this repository, use this command:
